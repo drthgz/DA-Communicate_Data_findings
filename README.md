@@ -22,7 +22,7 @@ After completing this project, you will be able to:
 -    Choose appropriate plots, limits, transformations, and aesthetics to explore a dataset, allowing you to understand distributions of variables and relationships between features.
 -    Use design principles to create effective visualizations for communicating findings to an audience.
 
-    Important: It’s a good idea to look at the project rubric(opens in a new tab), before you get started. This way, you have a clear idea of what points to aim for as you go through the project steps.
+*Important: It’s a good idea to look at the project rubric(opens in a new tab), before you get started. This way, you have a clear idea of what points to aim for as you go through the project steps.
 
 Submission
 
