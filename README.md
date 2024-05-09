@@ -14,7 +14,7 @@ Data visualization is an important skill that is used in many parts of the data 
  * Exploratory data visualization generally occurs during and after the data wrangling process and is the main method that you will use to understand the patterns and relationships present in your data. This understanding will help you approach any statistical analyses and will help you build conclusions and findings. This process might also illuminate additional data-cleaning tasks to be performed.
  * Explanatory data visualization techniques are used after generating your findings and are used to help communicate your results to others. Understanding design considerations will make sure that your message is clear and effective. In addition to being a good producer of visualizations, going through this project will also help you be a good consumer of visualizations that are presented to you by others.
 
-What will I learn?
+##### What will I learn?
 
 After completing this project, you will be able to:
 
@@ -22,16 +22,16 @@ After completing this project, you will be able to:
 -    Choose appropriate plots, limits, transformations, and aesthetics to explore a dataset, allowing you to understand distributions of variables and relationships between features.
 -    Use design principles to create effective visualizations for communicating findings to an audience.
 
-*Important: It’s a good idea to look at the project rubric(opens in a new tab), before you get started. This way, you have a clear idea of what points to aim for as you go through the project steps.
+> Important: It’s a good idea to look at the project rubric(opens in a new tab), before you get started. This way, you have a clear idea of what points to aim for as you go through the project steps.
 
-Submission
+#### Submission
 
 You can develop your project either locally or in the classroom workspace. If you are using the classroom workspace, you can choose from the following two ways of submission:
 
-    Submit from the workspace.
-    Submit a zip file on the last page of this project lesson.
+> Submit from the workspace.
+> Submit a zip file on the last page of this project lesson.
 
-Local Environment
+#### Local Environment
 
 We highly recommend completing this project using the provided Project Workspace. However, if you choose to work locally, this project uses Python 3 and is designed to be completed using Jupyter Notebooks.
 
